@@ -30,6 +30,6 @@ typedef enum {
 } modechange_t;
 
 typedef enum {
-	MODECHANGE_RESPONSE_OK = 0,
-	MODECHANGE_RESPONSE_CANCEL = 1
+	MODECHANGE_RESPONSE_CANCEL = 0,
+	MODECHANGE_RESPONSE_OK = 1
 } modechange_response_t;
