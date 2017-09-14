@@ -1,3 +1,9 @@
+osso-systemui-modechange-dev (0.2.1.2) unstable; urgency=medium
+
+  * enable git builds
+
+ -- Ivan J. <parazyd@dyne.org>  Thu, 14 Sep 2017 21:45:00 +0200
+
 osso-systemui-modechange-dev (0.2.1.2+0m5) unstable; urgency=low
 
   * Initial Release.
