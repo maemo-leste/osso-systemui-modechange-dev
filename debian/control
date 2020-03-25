@@ -8,6 +8,7 @@ Standards-Version: 4.3.0
 
 Package: osso-systemui-modechange-dev
 Architecture: all
+Multi-arch: foreign
 Depends:
  ${misc:Depends},
 Description: System UI mode change plugin development headers
