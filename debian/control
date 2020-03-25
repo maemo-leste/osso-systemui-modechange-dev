@@ -2,11 +2,13 @@ Source: osso-systemui-modechange-dev
 Section: devel
 Priority: extra
 Maintainer: Pali Rohár <pali.rohar@gmail.com>
-Build-Depends: debhelper (>= 5)
+Build-Depends:
+ debhelper (>= 5),
 Standards-Version: 3.7.2
 
 Package: osso-systemui-modechange-dev
 Architecture: all
-Depends: ${misc:Depends}
+Depends:
+ ${misc:Depends},
 Description: System UI mode change plugin development headers
  Development headers for System UI mode change plugin.
