@@ -4,6 +4,7 @@ Priority: extra
 Maintainer: Pali Rohár <pali.rohar@gmail.com>
 Build-Depends:
  debhelper (>= 10),
+ osso-systemui-dev,
 Standards-Version: 4.3.0
 
 Package: osso-systemui-modechange-dev
