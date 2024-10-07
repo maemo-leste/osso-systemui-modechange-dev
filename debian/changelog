@@ -1,3 +1,9 @@
+osso-systemui-modechange-dev (0.2.3) unstable; urgency=medium
+
+  * Fix makefile to not install during build
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Mon, 07 Oct 2024 13:35:53 +0200
+
 osso-systemui-modechange-dev (0.2.2) unstable; urgency=medium
 
   * Update debian compat level to 10
